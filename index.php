@@ -3,8 +3,8 @@
 Plugin Name: Custom Login URL
 Plugin URI: https://ansolidata.com/plugins
 Description: A plugin to hide the wp-admin login URL and customize it.
-Version: <?php echo get_github_latest_release_version('ottoperdomo', 'custom-login-url'); ?>
-Author: Otto Perdomo
+Version: */ echo get_github_latest_release_version('ottoperdomo', 'custom-login-url');
+/*Author: Otto Perdomo
 Author URI: https://github.com/OttoPerdomo/
 */
 
